@@ -8,7 +8,7 @@ class Config:
     
     # Bot Configuration
     BOT_PREFIX = ELITE_BOT_PREFIX
-    BOT_NAME = "Cipher Elite"
+    BOT_NAME = "𝐀ʏᴀɴᴏᴋᴏᴊɪ"
     BOT_TOKEN = 8787814762:AAG1xROWDLPBkMzm0evPiZI-8cesbaPY9z8
     TG_BOT_USERNAME = @Ayanokoji_user_bot
     
